@@ -1,0 +1,7 @@
+{
+  "name": "kintai-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
